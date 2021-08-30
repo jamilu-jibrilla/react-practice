@@ -1,0 +1,13 @@
+body {
+  /* background-image: url(https://images.unsplash.com/photo-1549939980-9ff07e3dd0fe?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=375&q=80); */
+  background-repeat: "no-repeat";
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  margin: 0px;
+  background-color: rgba(0, 0, 0, 0.2);
+}
