@@ -2,10 +2,10 @@ const Header = () => {
   return (
     <header
       style={{
-        color: "black",
+        color: "white",
         fontSize: "1.2em",
         height: "200px",
-        backgroundColor: "white",
+        backgroundColor: "rgba(0,0,0,6)",
         margin: "0px",
         display: "flex",
         justifyContent: "center",

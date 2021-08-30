@@ -9,7 +9,7 @@ const Home = () => {
     fetch(url)
       .then((response) => response.json())
       .then((data) => setPost(data));
-  }, []);
+  }, ["https://jsonplaceholder.typicode.com/posts/?_limit=7"]);
 
   return (
     <div>
